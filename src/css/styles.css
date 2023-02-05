@@ -7,3 +7,8 @@ body {
     background-color: hsl(218, 23%, 16%);
 }
 
+.container {
+    height: 300px;
+    width: 500px;
+    background-color: hsl(217, 19%, 24%);
+}
